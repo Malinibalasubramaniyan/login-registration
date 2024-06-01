@@ -23,6 +23,10 @@ CSS
 JavaScript
 PHPMailer
 
+**Install PHPMailer:**
+
+composer require phpmailer/phpmailer
+
 **Usage:**
 Register a new user.
 ![image](https://github.com/Malinibalasubramaniyan/login-registration/assets/93629145/9ca31eb9-29a3-428b-8b69-9ccad994b0e4)
