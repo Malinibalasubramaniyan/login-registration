@@ -33,6 +33,7 @@ Register a new user.
 
 Confirm email and set up a password.
 ![image](https://github.com/Malinibalasubramaniyan/login-registration/assets/93629145/ee4995bb-6347-43b0-8623-20c3e569253c)
+email
 ![image](https://github.com/Malinibalasubramaniyan/login-registration/assets/93629145/13bf4f5f-70bf-4a41-9d7e-b603cd2834ec)
 
 Log in with your credentials.
@@ -40,7 +41,12 @@ Log in with your credentials.
 
 Manage products by adding, editing, and deleting them.
 ![image](https://github.com/Malinibalasubramaniyan/login-registration/assets/93629145/0f40ebec-7507-4e7a-a486-e91d883e8880)
+
+edit product
+
 ![image](https://github.com/Malinibalasubramaniyan/login-registration/assets/93629145/ba71ba19-667f-4dd7-809a-01a9db9a3817)
+
+add product
 ![image](https://github.com/Malinibalasubramaniyan/login-registration/assets/93629145/98fec485-ef92-4f3a-a1af-b835f5a8f724)
 
 Reset your password if forgotten using OTP.
