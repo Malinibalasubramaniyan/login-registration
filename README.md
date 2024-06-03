@@ -33,7 +33,8 @@ Register a new user.
 
 Confirm email and set up a password.
 ![image](https://github.com/Malinibalasubramaniyan/login-registration/assets/93629145/ee4995bb-6347-43b0-8623-20c3e569253c)
-email
+
+Set Password through Email verification.
 ![image](https://github.com/Malinibalasubramaniyan/login-registration/assets/93629145/13bf4f5f-70bf-4a41-9d7e-b603cd2834ec)
 
 Log in with your credentials.
